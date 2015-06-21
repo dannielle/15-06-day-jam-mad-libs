@@ -1,0 +1,35 @@
+<snippet>
+  <content><![CDATA[
+Mad libs:
+  Mode of transportation: ${1:bus}
+  Adjective: ${2:slow} 
+  Plural noun: ${3:sailor scout boys}
+  Plural noun: ${4:birds}
+  Plural noun: ${5:trees}
+  Plural body part: ${6:legs}
+  Body part: ${7:butt}
+  Food: ${8:pizza}
+  Noun: ${9:story}
+  Artist: ${10:Jarreau Wimberly}
+  Film Title: ${11:Space Odyssey 2001}
+  Plural high-fantasy noun: ${12:assassins}
+  Celebrity: ${13:Elvis Presley}
+  Field of study: ${14:fashion}
+  Field of study: ${15:architecture}
+  Sound effect for a positive feeling: ${16:good}
+  Plural noun: ${17:lipstick}
+
+Dannielle was sitting on the $1 on a 5 hour trip from Charlotte to Atlanta. She had very limited Internet access that was very $2, so she couldn't even watch any cartoons about $3. So it was out of the question for her to be able to download Unity onto her laptop. In fact, she couldn't even really download any IDE! So instead she decided to work on Sublime.
+
+She opened up Sublime Text 2. She thought about what to make. Would she make it about $4? Or about $5? Her $6 were cramped. Her $7 hurt. She was a little hungry, it had been forever since she last had $8. "I know," she said,"I'll make a $9. And it will be about my weekend at HeroesCon:
+
+I got to meet a lot of cool artists, like Babs Tarr and $10. I bought a poster that is teal and pink about $11. I read a lot of stories about high-class space $12 and feminists. I met the mother of Casey, and we talked about Andy Kaufman doing impressions of $13. I met a guy who makes zines using broken photocopiers about $14, and I bought a Danish comic book about $15. Those Danes! Overall I had a really $16 time."
+
+Pleased, Dannielle closed her laptop to take a nap. She had a lot to dream about, like cats and $17.
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>day-jam</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
